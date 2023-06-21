@@ -1,1 +1,1 @@
-// it is server.js file will be updated soongit
+// it is server.js file will be updated soon
